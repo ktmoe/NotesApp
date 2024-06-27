@@ -9,5 +9,5 @@ import dagger.hilt.android.HiltAndroidApp
 @HiltAndroidApp
 class NoteApp: Application() {
     // Added this line
-    // to create conflict intentionally
+    // to create conflict
 }
